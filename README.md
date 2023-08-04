@@ -1,4 +1,4 @@
-# Java Projects 2023
+# Java Projects
 [Spreadsheet Backend](https://github.com/dattgoswami/spreadsheet-backend-library) 
 
 [Hapi Fhir Client](https://github.com/dattgoswami/hapi-fhir-playground) 
